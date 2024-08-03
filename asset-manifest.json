@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ismaill-movie/static/css/main.9a4eb742.css",
+    "main.js": "/ismaill-movie/static/js/main.d21f065f.js",
+    "index.html": "/ismaill-movie/index.html",
+    "main.9a4eb742.css.map": "/ismaill-movie/static/css/main.9a4eb742.css.map",
+    "main.d21f065f.js.map": "/ismaill-movie/static/js/main.d21f065f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a4eb742.css",
+    "static/js/main.d21f065f.js"
+  ]
+}
