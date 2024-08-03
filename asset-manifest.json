@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ismaill-movie/static/css/main.9a4eb742.css",
-    "main.js": "/ismaill-movie/static/js/main.e66554d8.js",
+    "main.js": "/ismaill-movie/static/js/main.6d37a4f3.js",
     "index.html": "/ismaill-movie/index.html",
     "main.9a4eb742.css.map": "/ismaill-movie/static/css/main.9a4eb742.css.map",
-    "main.e66554d8.js.map": "/ismaill-movie/static/js/main.e66554d8.js.map"
+    "main.6d37a4f3.js.map": "/ismaill-movie/static/js/main.6d37a4f3.js.map"
   },
   "entrypoints": [
     "static/css/main.9a4eb742.css",
-    "static/js/main.e66554d8.js"
+    "static/js/main.6d37a4f3.js"
   ]
 }
